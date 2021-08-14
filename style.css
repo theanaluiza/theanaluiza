@@ -1,0 +1,89 @@
+
+
+h1 {
+	position: absolute;
+	width: 600px;
+	height: 150px;
+	left: 0px;
+	top: 0px;
+	font-size: 90px;
+	color: #FFF803;
+	background: #000000;
+	padding-left: 30px;
+	padding-top: 100px;
+	border: none;
+}
+
+h2 {
+	position: absolute;
+	width: 600px;
+	height: 150px;
+	left: 0px;
+	top: 200px;
+	font-size: 90px;
+	color: #FFF803;
+	background: #000000;
+	padding-left: 30px;
+	padding-bottom: 50px;
+	border: none;
+}
+
+.imagem-planner{
+
+position: absolute;
+width: 580px;
+height: 400px;
+left: 630px;
+top: 0px;
+}
+
+
+h3 {
+position: absolute;
+width: 700px;
+height: 50px;
+left:100px;
+top: 410px;
+font-size: 25px;
+color: #000000;
+}
+
+h4 {
+position: absolute;
+width: 470px;
+height: 50px;
+left: 630px;
+top: 410px;
+font-size: 25px;
+color: #000000;
+}
+
+.enviar {
+background-color:black;
+border-color:black;
+color:white;
+border-radius: 50px;
+position: absolute;
+top: 460px;
+left: 200px;
+width: 120px;
+height: 50px;
+font-size: 30px;
+bottom: 0px;
+}
+
+
+.enviar-2 {
+
+background-color:black;
+border-color:black;
+color:white;
+border-radius: 50px;
+position: absolute;
+top: 460px;
+left: 850px;
+width: 120px;
+height: 50px;
+font-size: 30px;
+bottom: 0px;
+}
