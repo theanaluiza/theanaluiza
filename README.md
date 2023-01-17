@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theanaluiza
-- 👀 I’m interested in aerospace engineering, astrophysics and politics.
-- 🌱 I’m currently learning front-end.
-- 💞️ I’m looking to collaborate on education programs and aerospace modelism.
+- 👀 I’m interested in astrophysics, coding and education.
+- 🌱 I’m currently learning data analysis.
+- 💞️ I’m looking to collaborate on education programs and quantum computing.
 - 📫 How to reach me: dm me on instagram @another_lua or email me analuizaalves2993@gmail.com
 
 <!---
